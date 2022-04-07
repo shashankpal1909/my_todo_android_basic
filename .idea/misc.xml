@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/shash/AndroidStudioProjects/MyToDo/app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.36875" />
+        <entry key="..\:/Users/shash/AndroidStudioProjects/MyToDo/app/src/main/res/drawable/ic_baseline_edit_24.xml" value="0.36875" />
+        <entry key="..\:/Users/shash/AndroidStudioProjects/MyToDo/app/src/main/res/drawable/todo_completed_background.xml" value="0.36875" />
+        <entry key="..\:/Users/shash/AndroidStudioProjects/MyToDo/app/src/main/res/font/rubik.xml" value="0.2328125" />
+        <entry key="..\:/Users/shash/AndroidStudioProjects/MyToDo/app/src/main/res/layout/activity_main.xml" value="0.33645833333333336" />
+        <entry key="..\:/Users/shash/AndroidStudioProjects/MyToDo/app/src/main/res/layout/fragment_add_todo.xml" value="0.3625" />
+        <entry key="..\:/Users/shash/AndroidStudioProjects/MyToDo/app/src/main/res/layout/fragment_settings.xml" value="0.3625" />
+        <entry key="..\:/Users/shash/AndroidStudioProjects/MyToDo/app/src/main/res/layout/fragment_todo_list.xml" value="0.34646739130434784" />
+        <entry key="..\:/Users/shash/AndroidStudioProjects/MyToDo/app/src/main/res/layout/fragment_welcome.xml" value="0.3625" />
+        <entry key="..\:/Users/shash/AndroidStudioProjects/MyToDo/app/src/main/res/layout/list_item.xml" value="0.3625" />
+        <entry key="..\:/Users/shash/AndroidStudioProjects/MyToDo/app/src/main/res/layout/row_layout.xml" value="0.5" />
+        <entry key="..\:/Users/shash/AndroidStudioProjects/MyToDo/app/src/main/res/menu/add_todo_top_app_bar.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/shash/AndroidStudioProjects/MyToDo/app/src/main/res/menu/todo_list_top_app_bar.xml" value="0.35260416666666666" />
+        <entry key="..\:/Users/shash/AndroidStudioProjects/MyToDo/app/src/main/res/menu/top_app_bar.xml" value="0.35260416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
